@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎒 Graduated from XTU with a major in Industrial Design.
-- 🌱 Currently trying to be a frontend engineer (and a fullstack engineer in future).
+- 🌱 Currently trying to be a frontend engineer (and a fullstack coder in future).
 - 📫 Reach me asap: rayyang1024@qq.com.
