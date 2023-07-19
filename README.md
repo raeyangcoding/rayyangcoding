@@ -1,4 +1,4 @@
-### Howdy 👋 - I'm Ray!
+### Howdy 👋, I'm Ray 👩🏻‍💻
 
 <!--
 **rayyangcoding/rayyangcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🎒 Graduated from XTU with a major in Industrial Design.
 - 🌱 Currently trying to be a frontend engineer (and a fullstack coder in future).
-- 📫 Reach me asap: rayyang1024@qq.com.
+
