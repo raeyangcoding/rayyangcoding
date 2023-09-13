@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 毕业于湘潭大学工业设计专业
 
-  Graduated from XTU with a major in Industrial Design.
+- 🎓 毕业于湘潭大学工业设计专业
+ Graduated from XTU with a major in Industrial Design.
 
 - 🌱 目前转行做前端工程师（以后打算向全栈发展）
 
