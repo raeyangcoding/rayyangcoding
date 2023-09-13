@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 毕业于湘潭大学工业设计专业
+
 Graduated from XTU with a major in Industrial Design.
 
 - 🌱 目前转行做前端工程师（以后打算向全栈发展）
-  Currently trying to be a frontend engineer (and a fullstack coder in future).
+
+Currently trying to be a frontend engineer (and a fullstack coder in future).
 
