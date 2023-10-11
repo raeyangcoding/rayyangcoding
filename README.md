@@ -1,4 +1,4 @@
-### 你好 👋，我是Ray 👩🏻‍💻
+### 你好 👋，我是Ray👩🏻‍💻
 
 <br>
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🎓  Graduated from XTU with a major in Industrial Design  毕业于湘潭大学工业设计专业 
 
-- 🌱 A fullstack coder in future  未来打算往全栈开发发展 
+- 🌱  A fullstack coder in future  未来打算往全栈开发发展 
 
